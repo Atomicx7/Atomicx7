@@ -21,17 +21,17 @@
 <h3 align="center">📡 // TRANSMISSION_LOG</h3>
 
 ```
-
 root@atomicx7:~$ whoami
 > Backend / full-stack engineer — obsessed with AI-RAG systems & Android internals
 
 root@atomicx7:~$ cat stack.log
-> LANG      : Python · JavaScript
-> BACKEND   : FastAPI · Node.js
-> FRONTEND  : React · React Native
+> LANG      : Python · JavaScript · TypeScript · Kotlin · C
+> BACKEND   : FastAPI · Node.js · Express · REST APIs · WebSockets
+> FRONTEND  : React · React Native · Next.js
+> MOBILE    : Android (Kotlin · Jetpack Compose · AGSL Shaders)
 > CLOUD     : Google Cloud (Cloud Run · Pub/Sub · Firestore)
-> AI        : ChromaDB · Gemini · Embedding APIs
-> CERTS     : Generative AI · Agentic AI · MS Career Essentials — GenAI
+> AI        : ChromaDB · Gemini · Embedding APIs · Opencode · Local LLMs
+> CERTS     : Generative AI · Agentic AI · MS Career Essentials - GenAI
 
 root@atomicx7:~$ echo $PORTFOLIO
 > atomicx7.vercel.app
